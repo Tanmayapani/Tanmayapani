@@ -53,12 +53,39 @@
 
 ---
 
+### 🌐 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/tanmaya0704" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/tanmaya07" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://codeforces.com/profile/Tanmaya07" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.codu.io/Tanmaya07" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-00bfbf?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
+  </a>
+</p>
+
+---
+
 ### 📫 Contact Me
 
-<div align="center">
+<p align="center">
   <a href="mailto:tanmayapani01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tanmaya-pani"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
+</p>
+
+---
+
+### 🧭 Visitor Count
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftanmayapani&count_bg=%2300bfbf&title_bg=%23006666&icon=github.svg&icon_color=%23ffffff&title=Visitors&edge_flat=false"/>
+</p>
 
 ---
 
