@@ -56,8 +56,8 @@
 ### 📫 Contact Me
 
 <div align="center">
-  <a href="mailto:tanmayapani01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/tanmaya-pani"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <br><p><b>Visitor Count</b></p>  
+  <img src="https://profile-counter.glitch.me/tanmayapani/count.svg" />
 </div>
 
 ---
