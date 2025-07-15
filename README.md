@@ -15,7 +15,7 @@
 
 ---
 
-### 🔧 Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,bootstrap,mysql,git,github,vscode" />
@@ -56,16 +56,17 @@
 ### 📫 Contact Me
 
 <div align="center">
-  <br><p><b>Visitor Count</b></p>  
-  <img src="https://profile-counter.glitch.me/tanmayapani/count.svg" />
+  <a href="mailto:tanmayapani01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tanmaya-pani"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ---
 
-<div align="center">
-  <br><p><b>Visitor Count</b></p>  
-  <img src="https://profile-counter.glitch.me/tanmayapani/count.svg" />
-</div>
+### 🧭 Visitor Counter
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/tanmayapani/count.svg" alt="visitor counter"/>
+</p>
 
 ---
 
