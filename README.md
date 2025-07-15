@@ -65,8 +65,9 @@
 ### 🧭 Visitor Counter
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tanmayapani&count_bg=%2300bfbf&title_bg=%23006666&icon=github.svg&icon_color=%23ffffff&title=Visitors&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftanmayapani&count_bg=%2300bfbf&title_bg=%23006666&icon=github.svg&icon_color=%23ffffff&title=Visitors&edge_flat=false"/>
 </p>
+
 
 
 ---
