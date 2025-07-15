@@ -1,56 +1,73 @@
-<h1 align="center">Hi there, I'm Tanmaya Kumar Pani 👋</h1>
-<h3 align="center">DSA & Web Development Enthusiast</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Tanmaya+Kumar+Pani;DSA+%26+Web+Dev+Enthusiast;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+
+<h3 align="center">💻 Focused on clean code, efficient algorithms, and intuitive web interfaces.</h3>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 👨‍🎓 Aspiring software developer with a strong foundation in **Data Structures & Algorithms**
-- 🌐 Exploring the world of **Web Development**, from frontend interfaces to backend systems
-- 🧠 Constantly learning, building, and improving through projects and problem solving
-- 💬 Open to collaboration on tech projects or learning groups
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-
-**Web Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-**Tools & Platforms:**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- 🎯 Enthusiastic about **Data Structures & Algorithms** and **Web Development**
+- 🧠 Currently learning **backend systems** and scalable architectures
+- 🚀 Always exploring better ways to write **clean, readable, and efficient code**
+- 🤝 Open to collaboration on interesting tech projects
 
 ---
 
-### 📈 GitHub Stats
+### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmayapani&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,bootstrap,mysql,git,github,vscode" />
 </p>
+
+---
+
+### 📈 GitHub Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayapani&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/tanmayapani">
+    <img height="150em" src="https://streak-stats.demolab.com?user=tanmayapani&theme=aura&hide_border=false&border_radius=10" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tanmayapani">
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanmayapani&theme=aura" />
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmayapani&theme=aura" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tanmayapani">
+    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanmayapani&theme=aura" />
+    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanmayapani&theme=aura&utcOffset=5.5" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tanmayapani">
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmayapani&theme=aura" />
+  </a>
 </p>
 
 ---
 
-### 📫 Get in Touch
+### 📫 Contact Me
 
-<p align="left">
-  <a href="mailto:tanmayapani01@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tanmaya-pani"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
+<div align="center">
+  <a href="mailto:tanmayapani01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tanmaya-pani"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
 
 ---
 
-<!-- Optional personal touch -->
-<p align="center"><i>"Striving for clarity in code and purpose in learning."</i></p>
+<div align="center">
+  <br><p><b>Visitor Count</b></p>  
+  <img src="https://profile-counter.glitch.me/tanmayapani/count.svg" />
+</div>
+
+---
+
+<h2 align="center">✨ Thanks for stopping by! ✨</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
