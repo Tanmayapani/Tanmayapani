@@ -65,8 +65,9 @@
 ### 🧭 Visitor Counter
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/tanmayapani/count.svg" alt="visitor counter"/>
+  <img src="https://api.countapi.xyz/hit/tanmayapani.github.io/profile-visits?style=plastic" alt="Visitor Count" />
 </p>
+
 
 ---
 
