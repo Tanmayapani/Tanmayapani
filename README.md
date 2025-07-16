@@ -62,7 +62,7 @@
   <a href="https://codeforces.com/profile/Tanmaya07" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://www.codu.io/Tanmaya07" target="_blank">
+  <a href="[https://www.codolio.io/Tanmaya07](https://codolio.com/profile/Tanmaya07)" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-00bfbf?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
   </a>
 </p>
