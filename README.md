@@ -62,7 +62,7 @@
   <a href="https://codeforces.com/profile/Tanmaya07" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="[https://www.codolio.io/Tanmaya07](https://codolio.com/profile/Tanmaya07)" target="_blank">
+  <a href="https://codolio.com/profile/Tanmaya07" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-00bfbf?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
   </a>
 </p>
@@ -74,6 +74,14 @@
 <p align="center">
   <a href="mailto:tanmayapani01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tanmaya-pani"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</p>
+
+---
+
+### 🧭 Visitor Count
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftanmayapani&count_bg=%2300bfbf&title_bg=%23006666&icon=github.svg&icon_color=%23ffffff&title=Visitors&edge_flat=false"/>
 </p>
 
 ---
